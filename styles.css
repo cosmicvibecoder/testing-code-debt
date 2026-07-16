@@ -1,0 +1,11 @@
+/* broken CSS */
+body {
+  background-color: #ggg; /* invalid hex */
+  font-size: 16px
+  color: #333
+}
+
+#container {
+  display: flex
+  unknown-prop: yes;
+}
