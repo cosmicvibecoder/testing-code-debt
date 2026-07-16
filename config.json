@@ -1,0 +1,9 @@
+{
+  "name": "broken-config",
+  "version": "1.0.0",
+  "settings": {
+    "featureA": true,
+    "featureB": false,
+  "nested": {
+    "key": "value",
+}
