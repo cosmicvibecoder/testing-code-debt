@@ -1,3 +1,0 @@
-thisisnotapackage==
-another-package~=abc
-# comment that isn't meaningful
