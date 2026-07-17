@@ -1,7 +1,0 @@
-# malformed YAML
-root:
-  - item1
-  - item2:
-    - sub: value
-	- tab_indented: oops
-  : badkey
